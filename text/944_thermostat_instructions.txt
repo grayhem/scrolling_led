@@ -1,0 +1,77 @@
+If you car is running a little hotter than you think it should, perhaps you need a new thermostat. Here in Florida, high outside temperatures combined with stop-and-go traffic can raise your engine temperature up to the 3/4 mark pretty quickly. My solution was to put a 160-degree thermostat in the car, and to flush out the cooling system thoroughly. Optionally, on the series 1 944s, you can install a lower temperature thermoswitch. Though this article was written based on a 944 NA, the same principles apply to a 924S/944S/S2/951/968.
+
+Though this would seem like a simple procedure, removing the thermostat can be an exercise in frustration. By virtue of its location and how it is mounted, it requires special tools and/or some creative engineering to remove.
+
+Naturally, once you start this procedure, inspect all of the hoses and clamps for wear, replace as necessary.
+
+Warning/Disclaimer:You will be working on a hot engine, and draining hot fluids out of the car, there is the potential to burn yourself, be careful. Also, consult your local regulations regarding disposal of anti-freeze.
+
+Tools Needed:
+
+Large flat head screwdriver
+Metric sockets
+Snap Ring Pliers - get the ones that have a 90 degree bend with tips that are fairly thick OR Miniature round nose pliers - straight or 90 degree bend  OR Awl
+New Thermostat (NAPA carries a 160, 180 and 190 degree version) It doesn't have to be a Porsche thermostat, just one that is 54 MM in diameter.
+New seals, O-Rings and optionally, a Spacer
+Radiator hoses (As needed)
+2 bottles of radiator flush
+New Coolant - Coolant that is approved for "DEX-COOL" works well.
+Water Supply
+Drip pans and a lot of rags (I used 3 large drip pans).
+Gloves
+Metal Polish (Optional)
+Degreaser (Optional)
+Procedure:
+
+1. Run the car and turn on the heat, once you start getting warm air, shut the car off.
+
+2. Jack up the car and support it on jackstands, if you have one, remove the belly pan.
+
+3. Let the car cool for about 10 minutes.
+
+4. Place a drip pan under the radiator drain and one right in front of the crossmember.
+
+5. Unscrew the radiator drain; be prepared for a rush of warm coolant.
+
+6. Remove the cap from the expansion tank - the coolant will really squirt out now. Allow the system to drain as much as possible.
+
+7. On the passenger side of the car, remove the lower radiator to water pump hose, be prepared for yet another rush of warm coolant. If you have timed this right, the thermostat will still be open, allowing the engine block to drain. There is a bolt to drain coolant out of the block located on the passenger side of the engine. However, this bolt can be difficult to get at, and in many cases, it has corroded and fused to the block.
+
+8. Inspect this hose for excessive wear. If your car is equipped with power steering, any seepage or small leaks will have splashed power steering fluid on this hose, causing it to soften/swell. My hose actually had a flat spot from where it was resting against the inner fender. This, coupled with an old PS fluid leak, had softened the hose to the point where it was sticky. If this area is greasy on your car, I recommend thoroughly cleaning and degreasing this area before you continue - your hoses will thank you.
+
+OPTIONAL: Disconnect the upper radiator to engine hose at the radiator. Take a garden hose and hold it in the lower radiator outlet and turn on the water. This back-flushes the radiator and should remove any clogs you may have.
+
+9. Optional: If the water pump/radiator hose connection has a bunch of crud on the outside, you can remove it with a rag and some of the radiator flush. Use a brass wire brush if the crud is really caked on.
+
+10. Now it is time to remove the thermostat. It is held in by a 55mm x 2mm snap ring. As you can tell by looking, you do not have a lot of room to work. This ring is much easier to remove on the newer style water pumps, but can be an absolute nightmare on the older pumps (because it is in there deeper). Find the holes in the ring and work it out the best you can, hopefully without damaging the ring or your water pump. If you can't get at it easily, you can try inserting an awl in one of the holes and spinning the ring into a better position. Some mail order catalogs offer a "Water Pump Helper" Tool to get the ring out - it runs about $25.
+
+11. Once you get the ring out, pull the thermostat and any o-rings, seals, and spacing rings that may be in there, making note of which order they went in. Be prepared for yet another rush of coolant.
+
+OPTIONAL: Now that the thermostat is out, you can take your garden hose and back flush the block. Do this by connecting the garden hose to the engine head to upper radiator hose. Any loose debris will shoot out of the water pump.
+
+12. At this point, I wiped the thermostat housing down with a rag soaked in radiator flush, then polished it with metal polish, making sure to remove all traces of polish when I was done. Since I was reusing the spacer and the snap ring, I cleaned and polished them as well. This removed a lot of crud, making the new thermostat seat securely and made the snap ring easier to install.
+
+13. In the classic Haynes style, installation of the thermostat is the reverse of removal.
+
+14. Reconnect the hose, clamping everything down tight and replace the radiator drain plug.
+
+15. Time to flush the system. Empty the bottles of radiator flush into the expansion tank, followed by water - keep filling the tank to just above the maximum mark - the water will be sucked back down as you run the engine.
+
+16. Since the block no longer has coolant in it, you have two choices to fill the system.
+A. Run the engine and continue adding water to the expansion tank until the system is full, bleeding it in the process. - This can be an exceptional pain.
+
+B. Disconnect the hose at the top of the motor, and filling the block with water, then pouring water down the hose and into the radiator, filling it up as much as possible. If you backflushed the system, this hose should be disconnected already. This ensures the block is full and reduces the amount of time you have to bleed the system.
+
+17. Reconnect all hoses and start up the engine, and let it run for 10 - 15 minutes with the heat on, bleeding the air out of the system and adding additional water as necessary. Keep an eye on the engine temperature, since you are running plain water, you cannot let the engine get too hot or the water will boil, causing all sorts of problems.
+
+18. After the engine has cooled for a bit, drain the water and radiator flush. You can speed this up by disconnecting the radiator to water pump hose at the radiator - BE CAREFUL, the water will be HOT.
+
+19. After the system is drained and cooled, repeat steps 15 - 18 with plain water.
+
+20. Repeat steps 15 - 18 again, this time with coolant and water. Bleed the system completely.
+
+21. Check for leaks over the next couple of days, topping off coolant as necessary. To be safe, you should bleed the system every day for a few days afterwards to ensure trapped air bubbles are worked out.
+
+
+Bleeding Tips:
+Once the system is full of coolant, loosen the bleeding screw slightly. You should see coolant bubbling from under the screw. As the system forces air out of the system, you can feel the head to radiator hose heat up. After the hose is a uniform temperature squeeze it a few times, this creates a small backpressure wave through the system, helping to force trapped air bubbles loose. Once you have a steady stream of coolant oozing out of the bleeder screw, tighten it down, you are finished.
