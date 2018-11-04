@@ -8,7 +8,7 @@ from pathlib import Path
 import numpy as np
 
 
-TEXT_PATH = Path("/home/graham/python/led_sign/text/")
+TEXT_PATH = Path("/home/graham/python/scrolling_led/text/")
 POETRY = lambda x: x.stem.endswith("_poetry")
 QUIPS = lambda x: x.stem.endswith("_quips")
 LONG = lambda x: x.stem.endswith("_long")

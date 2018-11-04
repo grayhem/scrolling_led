@@ -6,8 +6,8 @@ hit control-c to cancel the current program.
 
 import unicodedata
 
-from led_sign import master
-from led_sign import text
+from scrolling_led import master
+from scrolling_led import text
 
 
 
